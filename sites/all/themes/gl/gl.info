@@ -1,0 +1,22 @@
+name = GL
+description = Theme for Geek Label.
+core = 7.x
+release = 7.x-1.x
+base theme = bootstrap
+
+screenshot = screenshot-gl.png
+stylesheets[screen][] = scss/gl-style.scss
+stylesheets[screen][] = scss/responsive.scss
+
+scripts[] = js/slick.js
+scripts[] = js/custom.js
+
+regions[page-top] = Page Top
+regions[page-content] = Page Content
+regions[content] = content
+regions[page-bottom] = Page Bottom
+
+version = "7.x-1.0"
+core = "7.x"
+project = "GL"
+datestamp = "1346238662"
