@@ -11,9 +11,9 @@ Usually I would clone a full exiting theme and starting my chanings on that base
 The style is written with much scss standard as possible.
 I've used the modules Preprocessor (prepro) and Sassy core SASS+SCSS compiler (sassy).
 It wasn't really possible to take much adavantage of the existant bootrap framework for this single page project. Usually, for a full the project I would use the exiting regions for internal pages and create a page--front.tpl.php for the home.
-</b></br>
+</br></br>
 For the silider effect of the client section, I have used two externals js on top of a simple views. Using a slider would have accomplished the same effect, but for this single page site, I have opted to tbe lightweigth as possible.
-</b></br>
+</br></br>
 Image handling: Not knowing how heavy will the full project be in image, I've choosen to use core image handling style.
 In normal sitation however, different image style and breakpionts should be applied to views to enable different image size for different devices.
 
