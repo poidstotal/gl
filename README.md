@@ -18,5 +18,5 @@ Image handling: Not knowing how heavy will the full project be in image, I've ch
 In normal sitation however, different image style and breakpionts should be applied to views to enable different image size for different devices.
 
 <b>Others</b></br>
-Add back to top module: to make the navigation to the top easier
+Add back to top module: to make the navigation to the top easier</br>
 Accessing the site: http://54.253.250.252/gl/ admin logins are admin/admin
