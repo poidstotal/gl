@@ -3,7 +3,9 @@ This looks more like a one page website. One region would have been enough for t
 Each piece of the page is either a static block or a views block. I've assigned them into the different
 regions based on personal opinion of what look more like a footer, header than content, etc.
 </br></br>
-The first section "Geek label" and the contact section are static block because they standout from other sections.The contact section is using a webform, rather than the the default contact feature since it has a field less. </br> Each of text+image is created as a content and pull out with views, based on tag. I've used the default basic page content type to handle them. The client section is using a separate content type "Client Logo" as suggested by the design.</br>I have used two different footers, one for pc and one for mobile since the design suggest they are separate. All ther other section are responsive from pc to mobile.
+The first section "Geek label" and the contact section are static block because they standout from other sections.The contact section is using a webform, rather than the the default contact feature since it has a field less. </br> Each of text+image is created as a content and pull out with views, based on tag. I've used the default basic page content type to handle them. The client section is using a separate content type "Client Logo" as suggested by the design.
+</br></br>
+I have used two different footers, one for pc and one for mobile since the design suggest they are separate. All ther other section are responsive from pc to mobile.
 
 <b> Theming and Style</b></br>
 Usually I would clone a full exiting theme and starting my chanings on that base. I do this so that pages that doesn't have specific design can heritate some acceptable style. However for this test, since working from scratch has been asking, I create the subtheme for the bootstrap theme.
